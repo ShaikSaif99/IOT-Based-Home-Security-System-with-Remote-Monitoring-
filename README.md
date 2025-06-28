@@ -1,0 +1,2 @@
+# IOT-Based-Home-Security-System-with-Remote-Monitoring-
+A smart security system designed to enhance home safety using IoT technology. It integrates sensors to detect motion, intrusion ,or gas leakage, with manual control through a Bluetooth interface. The system allows users to monitor and control security devices locally, providing a cost-effective and user-friendly solution for home protection.
